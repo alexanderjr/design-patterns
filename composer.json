@@ -1,0 +1,10 @@
+{
+    "name": "alex/design-patterns",
+    "authors": [
+        {
+            "name": "alexander",
+            "email": "alexander@vizir.com.br"
+        }
+    ],
+    "require": {}
+}
