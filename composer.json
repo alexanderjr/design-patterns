@@ -6,5 +6,10 @@
             "email": "alexander@vizir.com.br"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
     "require": {}
 }
