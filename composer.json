@@ -1,15 +1,10 @@
 {
-    "name": "alex/design-patterns",
+    "name": "root/design-patterns",
     "authors": [
         {
             "name": "alexander",
-            "email": "alexander@vizir.com.br"
+            "email": "alex@agenciamanga.com"
         }
     ],
-    "autoload": {
-        "psr-4": {
-            "App\\": "src/"
-        }
-    },
     "require": {}
 }
