@@ -25,10 +25,8 @@ class LogsSingleton {
 
     public static function obterInstancia(): self {
         if(empty(self::$instancia)){
-            print ("Nova Instancia");
-            return self::$instancia = new $instancia;
+            return self::$instancia = new self();
         }
-        print ("Velha Instancia");
         return self::$instancia;
     }
 }
